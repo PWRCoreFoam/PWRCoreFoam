@@ -1,0 +1,5 @@
+rodFields.C
+
+LIB = $(FOAM_LIBBIN)/libGeometricRodField
+
+

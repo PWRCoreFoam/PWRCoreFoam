@@ -1,0 +1,9 @@
+
+mixing/mixing.C
+
+mixingConvectionScheme/mixingConvectionSchemes.C
+
+
+LIB = $(FOAM_LIBBIN)/libmixingConvectionScheme
+
+

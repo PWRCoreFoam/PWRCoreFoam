@@ -1,0 +1,7 @@
+Core.C
+Fuel/Fuel.C
+Fuel/FuelAroundRod.C
+
+LIB = $(FOAM_LIBBIN)/libCore
+
+

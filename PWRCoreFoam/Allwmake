@@ -1,0 +1,12 @@
+#!/bin/sh
+cd ${0%/*} || exit 1    # run from this directory
+set -x
+
+wmake libso subChannelMesh
+wmake libso GeometricRodField
+wmake libso Core
+wmake
+
+# ----------------------------------------------------------------- end-of-file
+
+

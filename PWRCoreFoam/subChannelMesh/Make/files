@@ -1,0 +1,5 @@
+subChannelMesh.C
+
+LIB = $(FOAM_LIBBIN)/libsubChannelMesh
+
+

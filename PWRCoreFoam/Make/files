@@ -1,0 +1,5 @@
+PWRCoreFoam.C
+
+EXE = $(FOAM_APPBIN)/PWRCoreFoam
+
+
